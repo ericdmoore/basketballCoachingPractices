@@ -16,7 +16,7 @@
   - Match Up
 - Picks
   - Setting Screen
-  - Using Scree
+  - Using Screens
 - Plays
   - Not There yet
 
